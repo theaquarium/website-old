@@ -38,7 +38,6 @@ export default {
   height: fit-content;
   width: fit-content;
 
-  font-size: calc(10px + 3vmin);
   font-weight: 700;
   color: var(--title-bar-font-color);
 
@@ -47,5 +46,26 @@ export default {
   margin: 1vmin auto;
 
   text-align: center;
+}
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+  .title {
+    font-size: calc(10px + 6vmin);
+  }
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+  .title {
+    font-size: calc(10px + 4.5vmin);
+  }
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+  .title {
+    font-size: calc(10px + 3vmin);
+  }
 }
 </style>
