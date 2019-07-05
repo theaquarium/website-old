@@ -1,7 +1,7 @@
 <template>
   <div id="about">
     <div class="about-image">
-      <img src="../assets/profilepic.png" draggable="false">
+      <img src="../assets/profilepic.jpg" draggable="false">
     </div>
     <div class="divider"></div>
     <div class="about-text">
