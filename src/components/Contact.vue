@@ -4,7 +4,7 @@
     <close/>
     <div class="info">
       <h2>Email</h2>
-        <a href="mailto:theaquariumest@gmail.com">theaquariumest@gmail.com</a>
+        <a href="mailto:peter@vashevko.com">peter@vashevko.com</a>
       <br><br>
       <h2>Twitter</h2>
         <a href="https://twitter.com/_theaquarium_">@_theaquarium_</a>
